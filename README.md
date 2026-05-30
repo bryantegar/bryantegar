@@ -1,32 +1,52 @@
-# Hi, I'm Bryan 👋
+# Hi, I'm Bryan Tegar Mahardika 👋
 
-I am an aspiring Data Engineer passionate about building scalable data pipelines and production-style systems.
+Data Engineer, hands-on with web scraping at scale, ETL/ELT pipelines, data warehousing, and cloud infrastructure.
 
-## 🚀 Technical Skills
+---
 
-* Python
-* SQL
-* ETL Pipeline Development
-* Data Validation
-* Scheduler Automation
-* Streaming Data Architecture
-* SQLite / PostgreSQL
-* Modular System Design
+## 💼 Experience
 
-## 📌 Featured Projects
+**Data Engineer Intern — No Limit Indonesia** *(Apr 2026 – Juli 2026)*
+- Built Scrapy + Playwright scrapers for 300+ Malaysian news portals (5,000+ URLs collected)
+- Scraped Shopee, Tokopedia, Lazada, Blibli for product/review/rating data — competitor brand analytics
+- Built Instagram scraping pipeline using Linux + Appium to orchestrate multiple Android devices
 
-### Real-Time Crypto Data Pipeline
+**Research Assistant — UPN "Veteran" Yogyakarta** *(Mar 2024 – Apr 2025)*
+- Designed IoT air quality monitoring system (ESP32) for PM2.5, temperature, humidity
+- Built data ingestion pipeline from sensor to database with real-time dashboard
+- Thesis: Comparison of ARIMA, SARIMA, and Prophet for PM2.5 forecasting in Yogyakarta
 
-Streaming architecture with logging, scheduler, and database persistence.
+---
 
-### Multi-Source Data Engineering Pipeline
+## 🚀 Featured Projects
 
-API + CSV ingestion, validation, duplicate handling, and automated execution.
+| Project | Stack | Description |
+|--------|-------|-------------|
+| [NewsFlow Pipeline](https://github.com/bryantegar/newsflow-pipeline) | Airflow · PostgreSQL · Beanstalkd · Docker | End-to-end news ETL with sentiment scoring, scheduled every 2 hours |
+| [Real-Time Crypto Pipeline](https://github.com/bryantegar/real-time-crypto-data-pipeline) | Kafka · WebSocket · PostgreSQL · Streamlit | Live BTCUSDT stream from Binance → Kafka → DB → dashboard |
+| [Social Media Data Pipeline](https://github.com/bryantegar/social-media-data-pipeline) | BeautifulSoup · VADER · PostgreSQL | Google News RSS scraper with NLP sentiment + dimensional schema |
+| [Superstore ETL](https://github.com/bryantegar/data-engineer-intern-portfolio) | Airflow · Pandas · PostgreSQL · Docker | Batch ETL pipeline with full Airflow DAG scheduling |
+| [bisnis-crawler](https://github.com/bryantegar/bisnis-crawler) | Scrapy · Python | Production news crawler with retry logic and structured logging |
 
-## 🎯 Career Goal
+---
 
-To grow as a Data Engineer and contribute to building reliable data platforms in fintech or technology companies.
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![SQL](https://img.shields.io/badge/SQL-Database-green)
-![Data Engineering](https://img.shields.io/badge/Data-Engineering-orange)
+**Languages:** Python · SQL · Bash  
+**Pipelines & Orchestration:** Apache Airflow · ETL · Kafka · Beanstalkd · WebSocket  
+**Scraping:** Scrapy · Playwright · BeautifulSoup · Antibot Handling  
+**Databases:** PostgreSQL · SQLAlchemy  
+**DevOps:** Docker · Docker Compose · Linux · Git  
+**Data Science:** Pandas · ARIMA · SARIMA · Prophet  
+
+---
+
+## 🎯 Currently
+
+- 🔨 Processing scraped e-commerce data (Shopee, Tokopedia, Lazada, Blibli) and delivering to Airflow pipelines @ **No Limit Indonesia**
+- 📚 Ongoing: **Dibimbing.id Data Engineering Bootcamp** (Python 100 · SQL 100)
+- 🎯 Goal: Senior Data Engineer role by 2027
+
+---
+
+📬 bryantegarm@gmail.com · [LinkedIn](https://linkedin.com/in/bryantegar) · [Notion Portfolio](https://www.notion.so/Portfolio-Bryan-Tegar-Mahardika-2a9b72552f39800c9269fd736233dd42)

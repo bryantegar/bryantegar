@@ -22,11 +22,11 @@ Data Engineer, hands-on with web scraping at scale, ETL/ELT pipelines, data ware
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| [NewsFlow Pipeline](https://github.com/bryantegar/newsflow-pipeline) | Airflow · PostgreSQL · Beanstalkd · Docker | End-to-end news ETL with sentiment scoring, scheduled every 2 hours |
+| [News Lakehouse Pipeline](https://github.com/bryantegar/news-lakehouse-pipeline) | Airflow · GCS · DBT · Metabase | End-to-end news Scraping local swappable to GCS, scheduled every 1 hours |
 | [Real-Time Crypto Pipeline](https://github.com/bryantegar/real-time-crypto-data-pipeline) | Kafka · WebSocket · PostgreSQL · Streamlit | Live BTCUSDT stream from Binance → Kafka → DB → dashboard |
 | [Social Media Data Pipeline](https://github.com/bryantegar/social-media-data-pipeline) | BeautifulSoup · VADER · PostgreSQL | Google News RSS scraper with NLP sentiment + dimensional schema |
 | [Superstore ETL](https://github.com/bryantegar/data-engineer-intern-portfolio) | Airflow · Pandas · PostgreSQL · Docker | Batch ETL pipeline with full Airflow DAG scheduling |
-| [bisnis-crawler](https://github.com/bryantegar/bisnis-crawler) | Scrapy · Python | Production news crawler with retry logic and structured logging |
+| [Superstore ETL Pipeline](https://github.com/bryantegar/bisnis-crawler) | Scrapy · Python | Production news crawler with retry logic and structured logging |
 
 ---
 

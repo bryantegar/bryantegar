@@ -44,7 +44,7 @@ Data Engineer, hands-on with web scraping at scale, ETL/ELT pipelines, data ware
 ## 🎯 Currently
 
 - 🔨 Processing scraped e-commerce data (Shopee, Tokopedia, Lazada, Blibli) and delivering to Airflow pipelines @ **No Limit Indonesia**
-- 📚 Ongoing: **Dibimbing.id Data Engineering Bootcamp** (Python 100 · SQL 100)
+- 📚 Ongoing: **Dibimbing.id Data Engineering Bootcamp** (Python Basic 100 · SQL Basic 100)
 - 🎯 Goal: Senior Data Engineer role by 2027
 
 ---
